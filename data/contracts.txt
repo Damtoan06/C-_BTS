@@ -1,0 +1,11 @@
+# id|stationId|lessorName|lessorPhone|startDate|endDate|monthlyRent|paymentCycle|status
+HD001|BTS001|Nguyen Van Minh|0901112233|01/01/2024|31/12/2026|15000000|Hang thang|Con hieu luc
+HD002|BTS002|Tran Thi Lan|0912223344|15/03/2024|14/03/2027|12500000|Hang quy|Con hieu luc
+HD003|BTS003|Le Quang Huy|0983334455|01/07/2023|30/06/2026|18000000|Hang thang|Con hieu luc
+HD004|BTS004|Pham Thu Trang|0934445566|01/05/2024|30/04/2028|22000000|Hang nam|Con hieu luc
+HD005|BTS005|Hoang Van Khoa|0975556677|01/01/2025|31/12/2027|11000000|Hang quy|Con hieu luc
+HD006|BTS006|Vo Ngoc Yen|0966667788|01/11/2023|31/10/2026|16500000|Hang thang|Con hieu luc
+HD007|BTS007|Do Minh Tam|0947778899|01/02/2025|31/01/2029|19500000|Hang nam|Con hieu luc
+HD008|BTS008|Bui Thanh Son|0928889900|01/08/2024|31/07/2027|13500000|Hang quy|Con hieu luc
+HD009|BTS009|Dang Kim Ngan|0909990011|01/04/2025|31/03/2028|24000000|Hang thang|Con hieu luc
+HD010|BTS010|Ngo Tuan Kiet|0910001122|01/10/2024|30/09/2027|17500000|Hang nam|Con hieu luc

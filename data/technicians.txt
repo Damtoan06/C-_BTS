@@ -1,0 +1,11 @@
+# id|fullName|phoneNumber|specialization|certLevel|status
+KTV001|Nguyen Van An|0901234567|Truyen dan quang|Bac 3|Dang lam viec
+KTV002|Tran Thi Binh|0912345678|Vo tuyen 4G 5G|Bac 2|Dang lam viec
+KTV003|Le Quoc Cuong|0987654321|Nguon dien tram BTS|Bac 3|Dang lam viec
+KTV004|Pham Minh Duc|0934567890|Bao tri anten|Bac 2|Tam nghi
+KTV005|Hoang Thu Ha|0978123456|Mang loi IP|Bac 3|Dang lam viec
+KTV006|Vo Thanh Long|0961234567|Truyen dan microwave|Bac 1|Dang lam viec
+KTV007|Do Ngoc Mai|0945678123|Giam sat canh bao|Bac 2|Dang lam viec
+KTV008|Bui Anh Tuan|0923456781|An toan lao dong|Bac 3|Dang lam viec
+KTV009|Dang Hong Phuc|0909876543|Cau hinh thiet bi|Bac 2|Nghi phep
+KTV010|Ngo Bao Chau|0918765432|Bao tri may phat|Bac 1|Dang lam viec

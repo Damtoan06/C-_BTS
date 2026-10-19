@@ -1,0 +1,11 @@
+# id|name|location|status
+BTS001|Tram BTS Hoan Kiem|Hoan Kiem, Ha Noi|Dang hoat dong
+BTS002|Tram BTS Ba Dinh|Ba Dinh, Ha Noi|Dang hoat dong
+BTS003|Tram BTS Dong Da|Dong Da, Ha Noi|Dang hoat dong
+BTS004|Tram BTS Hai Ba Trung|Hai Ba Trung, Ha Noi|Dang hoat dong
+BTS005|Tram BTS Cau Giay|Cau Giay, Ha Noi|Dang hoat dong
+BTS006|Tram BTS Thanh Xuan|Thanh Xuan, Ha Noi|Dang hoat dong
+BTS007|Tram BTS Long Bien|Long Bien, Ha Noi|Dang hoat dong
+BTS008|Tram BTS Hoang Mai|Hoang Mai, Ha Noi|Dang hoat dong
+BTS009|Tram BTS Nam Tu Liem|Nam Tu Liem, Ha Noi|Dang hoat dong
+BTS010|Tram BTS Tay Ho|Tay Ho, Ha Noi|Dang hoat dong
